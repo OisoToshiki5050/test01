@@ -25,4 +25,4 @@ Marking *UnorDeared* list is easy.
 
 ## Section 4
 
-You can jump to [GitHub](https://github.com)easily.
+You can jump to [GitHub](https://github.com) easily.
